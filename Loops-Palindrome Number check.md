@@ -30,6 +30,7 @@ else:
    print("the number is not a palindrome")
 ```
 ## Output
+<img width="507" height="140" alt="image" src="https://github.com/user-attachments/assets/b1e03e0a-793f-4e3d-9256-cc7928fccc96" />
 
 ## Result
 The Python program that checks whether a given number is a **palindrome** using loops is executed successfully. 
