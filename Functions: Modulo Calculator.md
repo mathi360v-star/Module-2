@@ -20,6 +20,8 @@ print(result(a,b))
 ```
 
 ## Output
+<img width="497" height="233" alt="image" src="https://github.com/user-attachments/assets/132005c0-ade1-4502-9909-45e38899d64d" />
+
 
 ## Result
 The Python program that defines a function which accepts two values and returns their **modulo** using the `%` operator is executed successfully.
