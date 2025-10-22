@@ -20,7 +20,7 @@ func(a,b,c)
 ```
 
 ## Output
-<img width="497" height="233" alt="image" src="https://github.com/user-attachments/assets/25879b7f-a9ea-410a-95b0-28c4e53ba5e8" />
+<img width="486" height="359" alt="image" src="https://github.com/user-attachments/assets/8f2e16a1-f3c6-4a97-bdf7-c8abea545a23" />
 
 
 ## Result
