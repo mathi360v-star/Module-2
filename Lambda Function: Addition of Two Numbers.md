@@ -17,6 +17,7 @@ a = int(input())
 b = int(input())
 c = int(input())
 func(a,b,c)
+
 ```
 
 ## Output
